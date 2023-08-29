@@ -4,10 +4,9 @@ This is my refactor of the whisper ASR model by OpenAI. When released the whispe
 - Original Paper [Radford et al. "Robust Speech Recognition via Large-Scale Weak Supervision" 2022.](https://arxiv.org/pdf/2212.04356.pdf)
 - Original code [OpenAI/whisper](https://github.com/openai/whisper)
 
-  
 <a href=https://arxiv.org/pdf/2212.04356.pdf>
   <p align="center">
-    <img width="540" height="700" src="https://github.com/brandokoch/annotated_whisper/assets/57716666/b148b51d-18ab-46bb-b9f4-0d3863cef001">
+    <img width="540" height="700" src="https://github.com/brandokoch/annotated_whisper/assets/57716666/09bc606e-79d7-47a5-9ffa-bec610f00fa7">
   </p>
 </a>
 
