@@ -28,6 +28,10 @@ cd repo_dir
 python infer.py --model-type medium --audio-pth data/jfk.flac
 ```
 
+## Upcoming
+- **Whisper Audio preprocessing deep-dive and step-by-step explanation**
+- **Whisper from scratch in a jupyter notebook**
+
 
 ## License
 This repository is under an MIT License
