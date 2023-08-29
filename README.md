@@ -1,6 +1,6 @@
 # Annotated Whisper 
 
-This is my refactor of the whisper ASR model by OpenAI. When released the whisper repository had a very complicated function call stack and a lot of boilerplate which was unecessary. This repo is the result of my exploration of the original whisper codebase during which I was heavily refactoring and removing parts I found redundant. I also added additional comments for clarity (including the dimensions of tensors at each step).  
+This is my refactor of the whisper ASR model by OpenAI. When released the whisper repository had a very complicated function call stack and a lot of boilerplate which was unnecessary. This repo is the result of my exploration of the original whisper codebase during which I was heavily refactoring and removing parts I found redundant. I also added additional comments for clarity (including the dimensions of tensors at each step).  
 - Original Paper [Radford et al. "Robust Speech Recognition via Large-Scale Weak Supervision" 2022.](https://arxiv.org/pdf/2212.04356.pdf)
 - Original code [OpenAI/whisper](https://github.com/openai/whisper)
 
